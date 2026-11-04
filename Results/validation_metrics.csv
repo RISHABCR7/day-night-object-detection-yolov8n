@@ -1,0 +1,4 @@
+experiment,day_mAP50_percent,night_mAP50_percent,day_mAP50_95_percent,night_mAP50_95_percent
+E1 Balanced,45.23,47.91,27.04,28.34
+E2 Night-only,32.15,39.48,18.74,22.76
+E3 Day-only,44.74,37.43,27.14,21.57
